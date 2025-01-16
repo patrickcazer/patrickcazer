@@ -2,5 +2,5 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-<b>osTicket ( Help Desk Ticketing System )</b>
-  [Post-Installation Configuration]
+-  <b>osTicket ( Help Desk Ticketing System )</b>
+-  [Post-Installation Configuration] (https://github.com/patrickcazer/patrickcazer/osticket-prereqs)
