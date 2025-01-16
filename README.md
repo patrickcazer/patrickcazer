@@ -1,4 +1,4 @@
-</h1></a> Hi i'm patrick, an <a href="https://www.linkedin.com/in/patrickcazer/"> IT Specialist </a>😎</h1>
+</h1></a> Hi i'm patrick, an <a href="https://www.linkedin.com/in/patrickcazer/"> Information Technology Specialist </a>😎</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
