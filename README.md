@@ -4,3 +4,5 @@
 
 -  <b>osTicket ( Help Desk Ticketing System )</b>
 -  [Post-Installation Configuration](https://github.com/patrickcazer/patrickcazer/osticket-prereqs)
+-  [Post-Installation Configuration](https://github.com/patrickcazer/patrickcazer/post-install-config)
+
