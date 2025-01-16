@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey hows it going? I'm patrick, an IT Specialist
 
 <!--
 **patrickcazer/patrickcazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
