@@ -5,4 +5,5 @@
 -  <b>osTicket ( Help Desk Ticketing System )</b>
 -  [Prerequisites and Installation](https://github.com/patrickcazer/patrickcazer/osticket-prereqs)
 -  [Post-Installation Configuration](https://github.com/patrickcazer/patrickcazer/post-install-config)
+-  [Ticket Lifecycle Examples](https://github.com/patrickcazer/patrickcazer/ticket-lifecycle)
 
