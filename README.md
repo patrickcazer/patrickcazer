@@ -1,4 +1,4 @@
-</h1></a>## Hi i'm patrick, an <a href="https://www.linkedin.com/in/patrickcazer/"> IT Specialist</a></h1>
+</h1></a>Hi i'm patrick, an <a href="https://www.linkedin.com/in/patrickcazer/"> IT Specialist 😎 </a></h1>
 
 <!--
 **patrickcazer/patrickcazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
